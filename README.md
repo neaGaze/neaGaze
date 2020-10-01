@@ -63,7 +63,11 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neaGaze&theme=tokyonight&exclude_repo=github-readme-stats,neagaze.github.io,huge-theme-cleanwhite,wintersmith,startbootstrap-clean-blog,DevBlog-Theme,hugo,shogun,scottmotte.github.com,Mandala,MapKit,awesome)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=neaGaze.neaGaze)
+
 ## Follow Me
 [![GitHub](https://img.shields.io/github/followers/neaGaze?label=follow&style=social)](https://github.com/neaGaze)  
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nigeshshakya/)](https://www.linkedin.com/in/nigeshshakya/)  
-[![Twitter](https://img.shields.io/twitter/follow/neaGaze?style=social)](https://twitter.com/neaGaze)
+[![Twitter](https://img.shields.io/twitter/follow/neaGaze?style=social)](https://twitter.com/neaGaze)  
+<a href="https://stackoverflow.com//users/1109043/neagaze"><img src="https://stackoverflow.com/users/flair/1109043.png" width="140" height="40" alt="profile for Nigesh Shakya on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Nigesh Shakya on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
+
