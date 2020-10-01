@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋 I'm Nigesh - an aspiring Software Engineer. First of all, thank you for visting my page. As a reward for taking your precious time in reaching my profile, let me share with you some of my fun facts
 
 <!--
 **neaGaze/neaGaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+___
+## About Me
+- 🔭 Currently employed by Cerner Corp as Software Engineer
+- 🌱 I’m currently learning DART and Flutter 
+- 📫 How to reach me: nizeshshakya@gmail.com
+
