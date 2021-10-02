@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ___
 ## About Me
-- 🔭 Currently employed by Cerner Corp as Software Engineer
-- 🌱 I’m currently learning DART and Flutter 
+- 🔭 Current tenure at Rock Central as Software Engineer
+- 🌱 I’m currently learning Kubernetes and Istio 
 - 📫 Feel free to email me at nizeshshakya@gmail.com
 
 <!-- Icons -->
