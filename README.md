@@ -49,6 +49,7 @@ ___
 ![](https://img.shields.io/badge/Framework-Android-informational?style=flat&logo=android&logoColor=white&color=6db33f)
 ![](https://img.shields.io/badge/Framework-WPF-informational?style=flat&logo=.net&logoColor=white&color=6db33f)
 ![](https://img.shields.io/badge/Framework-Unity3D-informational?style=flat&logo=unity&logoColor=white&color=6db33f)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=6db33f)
 
 ![](https://img.shields.io/badge/Monitor-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=005571)
 
